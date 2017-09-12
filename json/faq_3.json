@@ -1,0 +1,16 @@
+{
+    "userInterface": {
+        "header": "Bevægelser i teksten 2",
+        "explanation": "Klik på markørerne og se film, billeder og data fra dataindsamlingerne. Lav derefter opgaven.",
+        "instruktion": "Her kan du se, hvordan et vandløbs tværprofil er opmålt, samt hvordan strømningshastigheden er målt. Se film fra tre forskellige steder i Vigersdal Å, hent data fra disse indsamlinger, samt længere dataserier over vandføringen målt ved målestation Værkevad Bro. Du finder også opgaver, hvor du kan tegne profiler, beregne vandføring og opstille en vandbalanceligning.",
+        "titel": "Nytårsforsætter"
+    },
+    "faq": [
+        ["Hvilke afsnit skal den være opbygget af?", "SSO’en skal have følgende elementer med (spørg dog din vejleder da det kan variere fra fag til fag):<ol> <li>Forside</li> <li>Indholdsfortegnelse</li> <li>Abstact</li> <li>Indledning</li> <li>Redegørende del</li> <li>Analyserende del</li> <li>Vurderende/diskuterende del</li> <li>Konklusion</li> <li>Litteraturliste</li> <li>Evt. bilag</li></ol>"],
+        ["Er der nogle ting du skal besvare?", "Du skal besvare hele problemformuleringen så fyldestgørende som muligt, som udgangspunkt indenfor rammerne af 10-15 sider."],
+        ["Hvor meget skal være ens egen mening?", "I SSO’en skal du vise at du er i stand til at foretage selvstændige analyser, fortolkninger og vurderinger af flere typer materialer. Herudover skal du ikke tilkendegive en mening i forhold til f.eks. religion, politisk overbevisning eller kulturelt tilhørsforhold."],
+        ["Hvem og hvor kan jeg spørge om hjælp?", "Du er som kursist selv forpligtet til at kontakte din vejleder. Gør det tidligt, f.eks. når du har valgt emne og fundet noget litteratur."]
+    ]
+
+
+}
