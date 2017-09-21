@@ -1,0 +1,11 @@
+{
+    "userInterface": {
+        "header": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "instruktion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "titel": "SSO - SPROG"
+    },
+    "faq": [
+        ["Kan man skrive på et andet sprog, fx fransk?", "Som udgangspunkt skal SSO’en skrives på dansk, man kan dog søge om at skrive den på enten engelsk, tysk eller fransk."]    
+    ]
+}

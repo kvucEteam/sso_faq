@@ -1,17 +1,14 @@
 {
     "userInterface": {
-        "header": "Bevægelser i teksten 2",
-        "explanation": "Klik på markørerne og se film, billeder og data fra dataindsamlingerne. Lav derefter opgaven.",
-        "instruktion": "Her kan du se, hvordan et vandløbs tværprofil er opmålt, samt hvordan strømningshastigheden er målt. Se film fra tre forskellige steder i Vigersdal Å, hent data fra disse indsamlinger, samt længere dataserier over vandføringen målt ved målestation Værkevad Bro. Du finder også opgaver, hvor du kan tegne profiler, beregne vandføring og opstille en vandbalanceligning.",
-        "titel": "Nytårsforsætter"
+        "header": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "instruktion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "titel": "EMNEVALG / MATERIALESØGNING"
     },
     "faq": [
-        ["Vælger man selv sit emne?", "Svar: Ja, man vælger selv sit emne, men emnet skal godkendes af din vejleder."],
-        ["Hvad må man skrive om?", "Svar: Når du har valgt fag, skal du vælge et emne der hverken er for bredt eller for smalt. Denne emneafgrænsning sker sammen med din vejleder. Det vigtigste er at du kommer til at arbejde med et emne hvor der både er materiale nok og hvor kvaliteten af materialet sikrer at du kan lave en akademisk og faglig opgave, der lever op til de krav der stilles."],
-        ["Er der nogle specifikke hjemmesider, som man ikke må bruge?", "Svar: Der er ikke hjemmesider man ikke må bruge, men de hjemmesider man anvender som sekundærlitteratur (fremstillnger) bør have en tydelig redaktør anført, således at man ved hvilken uddannelse og baggrund forfatteren af den tekst man anvender har. Det anbefales derfor at man f.eks. forsøger at finde alternativer til wikipedia."],
-        ["Må man bruge film og billeder som kilder?", "Svar: Ja, men vær opmærksom på at der gælder særlige henvisningsregler til specielt film - spørg din vejleder."]
-        
+        ["Vælger man selv sit emne?", "Ja, man vælger selv sit emne, men emnet skal godkendes af din vejleder."],
+        ["Hvad må man skrive om?", "Når du har valgt fag, skal du vælge et emne der hverken er for bredt eller for smalt. Denne emneafgrænsning sker sammen med din vejleder. Det vigtigste er at du kommer til at arbejde med et emne hvor der både er materiale nok og hvor kvaliteten af materialet sikrer at du kan lave en akademisk og faglig opgave, der lever op til de krav der stilles."],
+        ["Er der nogle specifikke hjemmesider, som man ikke må bruge?", "Der er ikke hjemmesider man ikke må bruge, men de hjemmesider man anvender som sekundærlitteratur (fremstillinger) bør have en tydelig redaktør anført, således at man ved hvilken uddannelse og baggrund forfatteren af den tekst man anvender har. Det anbefales derfor at man f.eks. forsøger at finde alternativer til wikipedia."],
+        ["Må man bruge film og billeder som kilder?", "Ja, men vær opmærksom på at der gælder særlige henvisningsregler til specielt film - spørg din vejleder."]
     ]
-
-
 }
