@@ -1,9 +1,9 @@
 {
     "userInterface": {
-        "header": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "header": "Introducerende spørgsmål til SSO.",
         "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "instruktion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "titel": "INTRODUKTION"
+        "instruktion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", 
+        "Placering": "INTRODUKTION"
     },
     "faq": [
         ["Hvad er en SSO?", "SSO står for Større Skriftlig Opgave og er en opgave, du skal skrive, hvis du tager en fuld HF-eksamen. Du vælger selv hvilket fag du vil skrive i og er med til at afgrænse emnet sammen med din vejleder. Der er krav til både indholdet og formen, og du vurderes på din evne til at behandle et fagligt emne på en korrekt og akademisk måde, hvor du bruger fagets stof og metoder."],
@@ -27,6 +27,7 @@
         ["Hvor længe har man til at lave den?", "Selve opgaven har du, fra du får udleveret din opgaveformulering, en uge til at skrive. Det er dog vigtigt  at du påbegynder især læseprocessen, men også skriveprocessen, længe før skriveugen. Det er fx en god ide at tage fyldige noter til det du læser."],
         ["Hvordan kan man øve det at gå til SSO eksamen?", "Processen med at skrive SSO ligger i tæt relation til at skrive historieopgave. Det er for en stor del af fagene de samme mekanismer man anvender i SSO arbejdet. Herudover bør du i din undervisning være særligt opmærksom på de dele af undervisningen der handler om hvordan man redegør, analyserer/fortolker og diskuterer/vurderer. Det er relevant for de fleste, omend ikke alle fag."],
         ["Kan man arbejde 2 og 2 sammen?", "Nej, SSO’en er en individuel opgave."],
-        ["Skal man op og forsvare den?", "Nej SSO’en skal ikke forsvares."]
+        ["Skal man op og forsvare den?", "Nej SSO’en skal ikke forsvares."],
+        ["Kan man skrive på et andet sprog, fx fransk?", "Som udgangspunkt skal SSO’en skrives på dansk, man kan dog søge om at skrive den på enten engelsk, tysk eller fransk."]
     ]
 }

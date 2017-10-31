@@ -4,6 +4,11 @@
      var HTML_array = [];
 
 
+     $('title').text(jsonData.userInterface.header); // Tilføjet af THAN d. 30/10-2017
+     $('h1').text(jsonData.userInterface.header); // Tilføjet af THAN d. 30/10-2017 
+
+
+
      $('.instr_container').html(instruction("Du skal i gang med at skrive din SSO. Klik på emnerne i FAQ'en, hvis du har spørgsmål."));
 
      for (var i = 0; i < js.length; i++) {

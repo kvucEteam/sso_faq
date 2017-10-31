@@ -1,9 +1,9 @@
 {
     "userInterface": {
-        "header": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "header": "Spørgsmål til skriveugen",
         "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "instruktion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "titel": "SSO UGEN"
+        "instruktion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", 
+        "Placering": "SSO UGEN"
     },
     "faq": [
         ["Er der krav til hvad Problemformuleringen skal handle om?", "Problemformuleringen skrives af din vejleder - den er for dig der skal skrive opgaven ukendt inden SSO skriveugen. Der er ikke en fast skabelon for hvordan din vejleder udformer problemformuleringen. Hvis du er i tvivl om hvordan den skal forstås skal du kontakte din vejleder. Du har altid ret til at kontakte din vejleder om dette – også i selve skriveugen."],

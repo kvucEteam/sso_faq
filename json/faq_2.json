@@ -1,12 +1,12 @@
 {
     "userInterface": {
-        "header": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "header": "Spørgsmål til valg af fag og emne",
         "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "instruktion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "titel": "EMNEVALG / MATERIALESØGNING"
+        "instruktion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", 
+        "Placering": "EMNEVALG / MATERIALESØGNING"
     },
     "faq": [
-        ["Vælger man selv sit emne?", "Ja, man vælger selv sit emne, men emnet skal godkendes af vejleder."],
+        ["Vælger man selv sit emne?", "Ja, man vælger selv sit emne, men emnet skal godkendes af din vejleder."],
         ["Hvad må man skrive om?", "Når du har valgt fag, skal du vælge et emne der hverken er for bredt eller for smalt. Denne emneafgrænsning sker sammen med din vejleder. Det vigtigste er at du kommer til at arbejde med et emne hvor der både er materiale nok og hvor kvaliteten af materialet sikrer at du kan lave en akademisk og faglig opgave, der lever op til de krav der stilles. Her på siden kan emnebanken hjælpe dig til et frugtbart emnevalg."],
         ["Er der nogle specifikke hjemmesider, som man ikke må bruge?", "Der er ikke hjemmesider man ikke må bruge, men de hjemmesider man anvender som sekundærlitteratur (fremstillinger) bør have en tydelig redaktør anført, således at man ved hvilken uddannelse og baggrund forfatteren af den tekst man anvender har. Det anbefales derfor at man f.eks. forsøger at finde alternativer til wikipedia."],
         ["Må man bruge film og billeder som kilder?", "Ja, men vær opmærksom på at der gælder særlige henvisningsregler til specielt film - spørg din vejleder."]
