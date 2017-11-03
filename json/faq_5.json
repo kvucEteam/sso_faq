@@ -1,11 +1,15 @@
 {
     "userInterface": {
-        "header": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "header": "Spørgsmål til skriveugen",
         "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "instruktion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "Placering": "SSO - SPROG"
+        "instruktion": "Du skal i gang med at skrive din SSO. Klik på emnerne i FAQ'en, hvis du har spørgsmål.",
+        "Placering": "SKRIVEUGEN"
     },
     "faq": [
-        ["Kan man skrive på et andet sprog, fx fransk?", "Som udgangspunkt skal SSO’en skrives på dansk, man kan dog søge om at skrive den på enten engelsk, tysk eller fransk."]    
+        ["Kan man få hjælp fra andre end vejlederen?", "Man er naturligvis velkommen til at spørge familie, venner og bekendte til råds hvis man går i stå i skriveugen, nogle gange kan det at få formuleret problemet og tale om det, være med til at bringe én videre hvis man er gået i stå. Der er også hjælp at hente i skriveugeobjektet."],
+        ["Hvordan kan man disponere sin tid bedst?", "Her kan du finde en masse gode råd i skriveugeobjektet, så kig der."],
+        ["Er det muligt at få hjælp under skriveugen?", "Ja, du er velkommen til at kontakte din vejleder i løbet af skriveugen."],
+        ["Stiller skolen skriverum til rådighed?", "Det vil være forskelligt fra skole til skole. Spørg derfor din vejleder."],
+        ["Kan man få face-to-face vejledning i skriveugen?", "Det vil være forskelligt fra vejleder til vejleder, og man har mulighed for et møde, men i udgangspunktet skal du regne med at kontakten vil være over mail eller telefon."]    
     ]
 }

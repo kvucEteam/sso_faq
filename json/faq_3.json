@@ -1,15 +1,16 @@
 {
     "userInterface": {
-        "header": "Spørgsmål til skriveugen",
+        "header": "Spørgsmål om at finde materialer",
         "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "instruktion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", 
-        "Placering": "SSO UGEN"
+        "instruktion": "Du skal i gang med at skrive din SSO. Klik på emnerne i FAQ'en, hvis du har spørgsmål.", 
+        "Placering": "FINDE MATERIALER"
     },
     "faq": [
-        ["Er der krav til hvad Problemformuleringen skal handle om?", "Problemformuleringen skrives af din vejleder - den er for dig der skal skrive opgaven ukendt inden SSO skriveugen. Der er ikke en fast skabelon for hvordan din vejleder udformer problemformuleringen. Hvis du er i tvivl om hvordan den skal forstås skal du kontakte din vejleder. Du har altid ret til at kontakte din vejleder om dette – også i selve skriveugen."],
-        ["Er der nogle ting du skal besvare?", "Du skal besvare hele problemformuleringen så fyldestgørende som muligt, inden for rammerne af 10-15 sider."],
-        ["Hvor meget skal være ens egen mening?", "I SSO’en skal du vise at du er i stand til at foretage selvstændige analyser, fortolkninger og vurderinger af flere typer materialer. Herudover skal du ikke tilkendegive en mening i forhold til f.eks. religion, politisk overbevisning eller kulturelt tilhørsforhold."],
-        ["Hvad for nogle begreber skal bruges i SSO?", "Du bør anvende fagbegreber fra det/de fag du skriver SSO i"],
-        ["Hvilke afsnit skal den være opbygget af?", "SSO’en skal have følgende elementer med (spørg dog din vejleder da det kan variere fra fag til fag):<ol><li>Forside</li><li>Indholdsfortegnelse </li><li>Resumé på dansk (ca. 150 ord)</li><li>Indledning </li><li>Besvarelse af opgaveformulering (er typisk lavet med 2-4 underspørgsmål)</li><li>Konklusion </li><li>Litteraturliste </li><li>Evt. bilag</li></ol>"]
+        ["Skal der laves materialekritik?", "I nogle fag, fx historie, er det en rigtig god idé at forholde sig til det materiale man bruger, da det er en del af den kildekritiske tilgang der kendetegner faget, at forholde sig til alt det anvendte materiale. I andre fag kan det være mindre vigtig eller ikke relevant."],
+        ["Hvor må man søge efter materiale?", "Alle steder – men ikke alt materiale er lige godt. Biblioteket er det oplagte sted at starte, her er der også uddannede bibliotekarer der kan hjælpe med søgningen. Bøger kan være bedre end artikler på internettet hvis man skal have et solidt overblik over sit emne, men der er for langt de fleste fags vedkommende også brugbart materiale på nettet. Tal med din vejleder eller en bibliotekar hvis du har svært ved at komme i gang med din materialesøgning."],
+        ["Hvilken slags materiale må man bruge?", "Det afhænger helt af hvilket fag du skriver din SSO i og hvad du skriver om. Her er det vigtigt at du taler med din vejleder, så du kommer til at arbejde med noget velegnet materiale."],
+        ["Får man tildelt materiale?", "I udgangspunktet skal man selv finde det materiale man skal bruge til sin opgave, men det er en god idé at tale med vejlederen der sagtens kan have gode idéer til godt materiale. Det er også muligt at der <i>med</i> problemformuleringen følger ét eller flere bilag som du skal inddrage i din besvarelse af problemformuleringen – men det er ikke et krav at vejlederen vedlægger noget."],
+        ["Er der krav til hvor meget materiale man skal bruge?", "Der er ikke noget specifikt krav om mængde af materiale, og også her er det en god idé at snakke med vejlederen. Materialemængden kan også variere fra fag til fag og med emnet, men generelt er det vigtigt at man læser målrettet, så man ikke bruger en masse tid på at læse materiale som man ikke har brug for at læse. Skim indholdsfortegnelser, bagsider og indledninger – nogle gange er det måske kun et enkelt kapitel man kan bruge i en bog."],
+        ["Hvordan ved man om det materiale man finder er godt/relevant?", "Her må man bruge sin faglige viden, sin kritiske sans – og sin vejleder!"]
     ]
 }

@@ -1,11 +1,12 @@
 {
     "userInterface": {
-        "header": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "header": "Spørgsmål til læsefasen",
         "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "instruktion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "Placering": "SSO - SPROG"
+        "instruktion": "Du skal i gang med at skrive din SSO. Klik på emnerne i FAQ'en, hvis du har spørgsmål.",
+        "Placering": "LÆSE"
     },
     "faq": [ 
-        ["Kan man skrive på et andet sprog, fx fransk?", "Som udgangspunkt skal SSO’en skrives på dansk, man kan dog søge om at skrive den på enten engelsk, tysk eller fransk."]    
+        ["Hvordan tager jeg notater?", "Notatteknik er meget individuelt. Hvis du vil have konkrete værktøjer hertil skal du tale med din vejleder. Det er dog altid en rigtig god ide at tage notater imens man læser."],
+        ["Hvornår skal man i gang med at læse éns materiale?", "Jo tidligere du kan starte processen, jo bedre. Det er en rigtig god idé at have gennemlæst og taget noter til alt det materiale som man skal bruge til at skrive opgaven, INDEN skriveugen begynder."]    
     ]
 }
