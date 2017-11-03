@@ -2,7 +2,7 @@
     "userInterface": {
         "header": "Spørgsmål til skriveugen",
         "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "instruktion": "Du skal i gang med at skrive din SSO. Klik på emnerne i FAQ'en, hvis du har spørgsmål.",
+        "instruktion": "Skriveugen er lige om hjørnet. Klik på emnerne her på siden og få svar på nogle af dine spørgsmål",
         "Placering": "SKRIVEUGEN"
     },
     "faq": [

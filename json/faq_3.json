@@ -2,7 +2,7 @@
     "userInterface": {
         "header": "Spørgsmål om at finde materialer",
         "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "instruktion": "Du skal i gang med at skrive din SSO. Klik på emnerne i FAQ'en, hvis du har spørgsmål.", 
+        "instruktion": "Klik på spørgsmålene i her på siden. Måske kan de hjælpe dig med at finde relevante materialer til den større skriftlige opgave.", 
         "Placering": "FINDE MATERIALER"
     },
     "faq": [
