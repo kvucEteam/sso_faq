@@ -6,10 +6,10 @@
         "Placering": "SKRIVEUGEN"
     },
     "faq": [
-        ["Kan man få hjælp fra andre end vejlederen?", "Man er naturligvis velkommen til at spørge familie, venner og bekendte til råds hvis man går i stå i skriveugen, nogle gange kan det at få formuleret problemet og tale om det, være med til at bringe én videre hvis man er gået i stå. Der er også hjælp at hente i <a href='../sso_skriveuge/skriveuge.html' target='_blank'>skriveugeobjektet</a>"],
-        ["Hvordan kan man disponere sin tid bedst?", "Her kan du finde en masse gode råd i skriveugeobjektet, så kig der."],
+        ["Kan man få hjælp fra andre end vejlederen?", "Du er naturligvis velkommen til at spørge familie, venner og bekendte til råds, hvis du går i stå i skriveugen. Nogle gange kan det, at få formuleret problemet og tale om det, være med til at bringe én videre, hvis man er gået i stå. Der er også hjælp at hente i <a href='../sso_skriveuge/skriveuge.html' target='_blank'>skriveugeguiden</a>."],
+        ["Hvordan kan man disponere sin tid bedst?", "Du kan finde en masse gode råd om at strukturere dine skrivedage i <a href='../sso_skriveuge/skriveuge.html' target='_blank'>guiden til skriveugen</a>."],
         ["Er det muligt at få hjælp under skriveugen?", "Ja, du er velkommen til at kontakte din vejleder i løbet af skriveugen."],
         ["Stiller skolen skriverum til rådighed?", "Det vil være forskelligt fra skole til skole. Spørg derfor din vejleder."],
-        ["Kan man få face-to-face vejledning i skriveugen?", "Det vil være forskelligt fra vejleder til vejleder, og man har mulighed for et møde, men i udgangspunktet skal du regne med at kontakten vil være over mail eller telefon."]    
+        ["Kan man få face-to-face vejledning i skriveugen?", "Det vil være forskelligt fra vejleder til vejleder. Du har mulighed for et møde, men i udgangspunktet skal du regne med, at kontakten vil være over mail eller telefon."]    
     ]
 }
