@@ -6,7 +6,7 @@
         "Placering": "SKRIVEUGEN"
     },
     "faq": [
-        ["Kan man få hjælp fra andre end vejlederen?", "Man er naturligvis velkommen til at spørge familie, venner og bekendte til råds hvis man går i stå i skriveugen, nogle gange kan det at få formuleret problemet og tale om det, være med til at bringe én videre hvis man er gået i stå. Der er også hjælp at hente i skriveugeobjektet."],
+        ["Kan man få hjælp fra andre end vejlederen?", "Man er naturligvis velkommen til at spørge familie, venner og bekendte til råds hvis man går i stå i skriveugen, nogle gange kan det at få formuleret problemet og tale om det, være med til at bringe én videre hvis man er gået i stå. Der er også hjælp at hente i <a href='../sso_skriveuge/skriveuge.html' target='_blank'>skriveugeobjektet</a>"],
         ["Hvordan kan man disponere sin tid bedst?", "Her kan du finde en masse gode råd i skriveugeobjektet, så kig der."],
         ["Er det muligt at få hjælp under skriveugen?", "Ja, du er velkommen til at kontakte din vejleder i løbet af skriveugen."],
         ["Stiller skolen skriverum til rådighed?", "Det vil være forskelligt fra skole til skole. Spørg derfor din vejleder."],
