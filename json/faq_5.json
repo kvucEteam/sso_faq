@@ -6,6 +6,11 @@
         "Placering": "SKRIVEUGEN"
     },
     "faq": [
+    	["Er der krav til hvad Problemformuleringen skal handle om?", "Problemformuleringen skrives af din vejleder - den er for dig der skal skrive opgaven ukendt inden SSO skriveugen. Der er ikke en fast skabelon for hvordan din vejleder udformer problemformuleringen. Hvis du er i tvivl om hvordan den skal forstås skal du kontakte din vejleder. Du har altid ret til at kontakte din vejleder om dette – også i selve skriveugen."],
+        ["Er der nogle ting du skal besvare?", "Du skal besvare hele problemformuleringen så fyldestgørende som muligt, inden for rammerne af 10-15 sider."],
+        ["Hvor meget skal være ens egen mening?", "I SSO’en skal du vise at du er i stand til at foretage selvstændige analyser, fortolkninger og vurderinger af flere typer materialer. Herudover skal du ikke tilkendegive en mening i forhold til f.eks. religion, politisk overbevisning eller kulturelt tilhørsforhold."],
+        ["Hvad for nogle begreber skal bruges i SSO?", "Du bør anvende fagbegreber fra det/de fag du skriver SSO i"],
+        ["Hvilke afsnit skal den være opbygget af?", "SSO’en skal have følgende elementer med (spørg dog din vejleder da det kan variere fra fag til fag):<ol><li>Forside</li><li>Indholdsfortegnelse </li><li>Resumé på dansk (ca. 150 ord)</li><li>Indledning </li><li>Besvarelse af opgaveformulering (er typisk lavet med 2-4 underspørgsmål)</li><li>Konklusion </li><li>Litteraturliste </li><li>Evt. bilag</li></ol>"],
         ["Kan man få hjælp fra andre end vejlederen?", "Du er naturligvis velkommen til at spørge familie, venner og bekendte til råds, hvis du går i stå i skriveugen. Nogle gange kan det, at få formuleret problemet og tale om det, være med til at bringe én videre, hvis man er gået i stå. Der er også hjælp at hente i <a href='../sso_skriveuge/skriveuge.html' target='_blank'>skriveugeguiden</a>."],
         ["Hvordan kan man disponere sin tid bedst?", "Du kan finde en masse gode råd om at strukturere dine skrivedage i <a href='../sso_skriveuge/skriveuge.html' target='_blank'>guiden til skriveugen</a>."],
         ["Er det muligt at få hjælp under skriveugen?", "Ja, du er velkommen til at kontakte din vejleder i løbet af skriveugen."],
