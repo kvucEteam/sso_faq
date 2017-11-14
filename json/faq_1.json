@@ -2,7 +2,7 @@
     "userInterface": {
         "header": "Introducerende spørgsmål til SSO",
         "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "instruktion": "Du skal i gang med at skrive din SSO. Klik på emnerne i her på siden, - måske kan de svare på nogle af dine spørgsmål.", 
+        "instruktion": "Du skal i gang med at skrive din SSO. Klik på emnerne her på siden, - måske kan de svare på nogle af dine spørgsmål.", 
         "Placering": "INTRODUKTION"
     },
     "faq": [

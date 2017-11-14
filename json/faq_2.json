@@ -2,7 +2,7 @@
     "userInterface": {
         "header": "Spørgsmål til valg af fag og emne",
         "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "instruktion": "Klik på spørgsmålene i her på siden. Måske kan de hjælpe dig i f.t. dine tvivlsspørgsmål om valg af fag og emne til den større skriftlige opgave.", 
+        "instruktion": "Klik på spørgsmålene her på siden. Måske kan de hjælpe dig i f.t. dine tvivlsspørgsmål om valg af fag og emne til den større skriftlige opgave.", 
         "Placering": "EMNEVALG / MATERIALESØGNING"
     },
     "faq": [
